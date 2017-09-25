@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git folder has been created.
+ONce a considerable changes has been done to which we may need to rollback in future.
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area offers to track and record the changes until a commit command is triggered.
+
+HAHAHA
