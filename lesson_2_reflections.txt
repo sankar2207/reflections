@@ -18,3 +18,7 @@ By commiting the changes after each logical chnage has been performed. It can be
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 We can try to implement different ideas without losing the working version of the code. Different ideas can be organised as different branches.
+
+How do the diagrams help you visualize the branch structure?
+
+Very well. I love the recent explanations on the branches.
