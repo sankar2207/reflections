@@ -22,3 +22,8 @@ We can try to implement different ideas without losing the working version of th
 How do the diagrams help you visualize the branch structure?
 
 Very well. I love the recent explanations on the branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+GIT's automatic merging is avoiding the incorrect guessing incase if the change is done on the same area. It is being stopped by throwing merge conflict.
+Concern is the additional time we spend to work on these.
