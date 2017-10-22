@@ -1,1 +1,2 @@
-First line in lesson 3 of Git and GitHub
+When would you want to use a remote repository rather than keeping all your work local?
+When working in a sharedgroup projects (or) working in multiple locations
